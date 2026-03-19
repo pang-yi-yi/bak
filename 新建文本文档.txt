@@ -1,0 +1,15 @@
+python基础
+爬虫
+c语言基础
+MySQL
+pytorch
+opencv
+numpy
+pandas
+os
+shutil
+sys
+json
+pathlib
+matplotlib
+Seaborn
